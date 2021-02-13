@@ -3502,7 +3502,7 @@ window.__require = function e(t, n, o) {
             var border = reverseLevelUp ? 1 : 9;
             // 控制合成人物後的升級邏輯
             var fruitVolume = reverseLevelUp ? -1 : 1;
-            // 合成人物，人物下標 0-9 (0 為小米，9 為劉啟揚，有一些特殊邏輯)
+            // 合成人物，人物下標 0-9 (0 為小舅舅，9 為美國姨丈，有一些特殊邏輯)
             c == r && (reverseLevelUp ? (c > border && r > border) : (c < border && r < border)) ? (this.pengzhuangCount += 1,
               0 == t.node.getComponent("fruitData").getNumber() && (a.default.score += this.fruitNumber + (extraScore ? extraScore : 1), // 改分数
                 u.default.Instance.SetScoreTween(a.default.score),
