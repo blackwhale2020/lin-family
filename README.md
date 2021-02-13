@@ -1,4 +1,5 @@
 ## Welcome to Lin Family Synthesis Game!
+[Start the Game here ! :video_game:](https://lin-family.blackwhale2020.vercel.app)
 
 ### :round_pushpin:  How to Play ?
 
@@ -44,5 +45,4 @@
 ---------------
 
 
-_**Enjoy the game \~**_ :video_game:
-
+[_**Enjoy the game \~**_ :video_game:](https://lin-family.blackwhale2020.vercel.app)
