@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome to Lin Family Synthesis Game!
 
-You can use the [editor on GitHub](https://github.com/blackwhale2020/lin-family/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### How to Play ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. One of family's face circle appears on top of the screen. 
 
-### Markdown
+1. Drag them to where you want. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Let me drop down freely by built-in gravity system with two differenr conditions:
+    
+    1. Circles will pile up if no same circles collide. 
+    
+    1. Once the two identical circles contact to each other, they will merge into one advenced level circle.
 
-```markdown
-Syntax highlighted code block
+1. Ripple effects might happen in ideal situation.
 
-# Header 1
-## Header 2
-### Header 3
+### Ordering (from bottom to the top):
+1. 小舅舅
 
-- Bulleted
-- List
+1. 我媽
 
-1. Numbered
-2. List
+1. 我爸
 
-**Bold** and _Italic_ and `Code` text
+1. 大舅媽
 
-[Link](url) and ![Image](src)
-```
+1. 大舅舅
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. 台北阿姨
 
-### Jekyll Themes
+1. 台北姨丈
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blackwhale2020/lin-family/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. 台中阿姨
 
-### Support or Contact
+1. 美國阿姨
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 美國姨丈 
+
+1. :confetti_ball: :tada: :trophy: :hearts: 阿嬤  :hearts: :trophy: :tada: :confetti_ball:
+
+
+
+
+_**Enjoy the game \~**_ :video_game:
+
